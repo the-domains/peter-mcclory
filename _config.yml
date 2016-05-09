@@ -2,12 +2,13 @@ name: Peter McClory
 favicon: null
 layout_spectrum: 0.4604300258215517
 typography_spectrum: 0.510886721778661
+title: 'Illustration, drawings and portrait art in Cheshire and Manchester'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77459478-1
   facebook: null
   twitter: null
 opengraph:
