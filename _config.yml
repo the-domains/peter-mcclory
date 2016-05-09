@@ -1,6 +1,6 @@
 name: Peter McClory
 favicon: null
-layout_spectrum: 0.4604300258215517
+layout_spectrum: 1
 typography_spectrum: 0.15318
 title: 'Illustration, drawings and portrait art in Cheshire and Manchester'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#fefdf8'
+    - '#dbdbd1'
+    - '#000000'
+    - '#484742'
+    - '#8f8f87'
   brandStrength: 0.375
   lightness: 0.9266018066555262
   saturation: 0.49530106084421277
